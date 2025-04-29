@@ -12,7 +12,7 @@ This project reads stock report PDFs, provides key insights and analysis, and de
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git](https://github.com/Rakesh-v27/AI_Stock_report_analysis.git
+git clone https://github.com/Rakesh-v27/AI_Stock_report_analysis.git
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
